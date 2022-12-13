@@ -5,40 +5,40 @@
       "id": 1,
       "title": "delectus aut autem",
       "completed": false,
-      "due-date": "2022-12-12",
-      "finish-date": "2022-12-13"
+      "due_date": "2022-12-12",
+      "finish_date": "2022-12-13"
     },
     {
       "userId": 1,
       "id": 1,
       "title": "quis ut nam facilis et officia qui",
       "completed": false,
-      "due-date": "2021-01-01",
-      "finish-date": "2022-06-13"
+      "due_date": "2021-01-01",
+      "finish_date": "2022-06-13"
     },
     {
       "userId": 1,
       "id": 1,
       "title": "fugiat veniam minus",
       "completed": false,
-      "due-date": "1999-04-18",
-      "finish-date": "1999-04-17"
+      "due_date": "1999-04-18",
+      "finish_date": "1999-04-17"
     },
     {
       "userId": 1,
       "id": 1,
       "title": 	"et porro tempora",
       "completed": false,
-      "due-date": "2022-12-25",
-      "finish-date": ""
+      "due_date": "2022-12-25",
+      "finish_date": ""
     },
     {
       "userId": 1,
       "id": 1,
       "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
       "completed": false,
-      "due-date": "2023-02-23",
-      "finish-date": ""
+      "due_date": "2023-02-23",
+      "finish_date": ""
     },
     
     {
@@ -46,8 +46,8 @@
       "id": 1,
       "title": 	"qui ullam ratione quibusdam voluptatem quia omnis",
       "completed": false,
-      "due-date": "2022-12-25",
-      "finish-date": "2022-12-24"
+      "due_date": "2022-12-25",
+      "finish_date": "2022-12-24"
     }
    ]
 }
